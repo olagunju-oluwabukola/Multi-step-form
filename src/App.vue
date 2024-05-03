@@ -29,9 +29,9 @@ export default{
 </keep-alive>
 
 <div class="btn">
-  <button @click="isActive = 'step-1'" class="active">1</button><span>----------</span>
-  <button @click="isActive = 'step-2'">2</button><span>-----------</span>
-  <button @click="isActive = 'step-3'">3</button><span>-----------</span>
+  <button @click="isActive = 'step-1'" class="active">1</button><span>--------</span>
+  <button @click="isActive = 'step-2'">2</button><span>---------</span>
+  <button @click="isActive = 'step-3'">3</button><span>---------</span>
   <button @click="isActive = 'step-4'">4</button>
 
 </div>
